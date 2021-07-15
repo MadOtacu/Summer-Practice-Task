@@ -123,17 +123,17 @@
     margin-top: 2.5%;
     margin-left: 5%;
     margin-right: 5%;
-    border: 2px solid green;
+    border: 2px solid #8CC754;
     border-radius: 5px;
     
 }
 
 .mb-3 ::placeholder {
-    color: green;
+    color: #8CC754;
 }
 
 .form button {
-    background-color: green;
+    background-color: #8CC754;
     width: 20%;
     margin-left: 40%;
     margin-right: 40%;
@@ -141,7 +141,7 @@
 
 .footer {
     height: 250px;
-    background-color: green;
+    background-color: #8CC754;
 }
 
 .footer div {
